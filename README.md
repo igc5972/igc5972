@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igc5972, Isabella (she/her)
+- 👋 Hi, I’m @igc5972, Isa Cox (them/them)
 - 👍 I am interested in: astrophysics, galaxy evolution, SED modeling, but also disability, accessibility and DEI in STEM!
 - 💾 I code primarily in Python, but I am definitely comfortable debugging pretty much anything! 
 - 💙 My coding loves are computer vision and implementing algorithms from scratch!
